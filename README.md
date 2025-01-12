@@ -14,7 +14,7 @@
 
 #
 
-**Algumas das tecnologias, entre outras ✨**
+**Algumas das tecnologias, entre outras ✨🤍**
 
    
 
