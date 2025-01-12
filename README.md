@@ -5,6 +5,7 @@
 - 💞️ Meu nome é Thais Carolina Henrique
 - 📫 email: thais.carolina.henrique@gmail.com
 - ⚡ Faço projetos de desenvolvimento web
+- 🤍 Tambem sou estudante de Eletrica | Eletroeletronica 
 
 
 
