@@ -1,11 +1,11 @@
  ## Hello Word, welcome to my profile! ✨
   
 - 👋 Olá Mundo! Sejam bem vindos ao meu perfil no GitHub
-- 🌱 Sou estudante de ciencia da computação e Tecnica em informatica
+- 🌱 Sou estudante de ciencia da computação e informatica
 - 💞️ Meu nome é Thais Carolina Henrique
 - 📫 email: thais.carolina.henrique@gmail.com
 - ⚡ Faço projetos de desenvolvimento web
-- 🤍 Tambem sou estudante de Eletrica e Eletroeletronica 
+- 🤍 
 
 
 
